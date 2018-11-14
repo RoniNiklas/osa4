@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1ha2VuQWNjb3VudCIsImlkIjoiNWJjODYzZjUyZGFhZWIxZTMwYWE5NTc3IiwiaWF0IjoxNTM5ODYxNjYxfQ.n257tGPlE08fgQ2AJvU7HgnTqLQdJ0r_6ZGtlUJ3F4s
+
+{
+    "title": "Uusi titl34234e",
+    "author": "Henkilo",
+    "url": "zzzz",
+    "userId": "5bc863f52daaeb1e30aa9577"
+}
