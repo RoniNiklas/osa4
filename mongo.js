@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const url = 'mongodb://admin:adminpassword1@ds247290.mlab.com:47290/roniniklas'
+const url = "TÄYTÄ TÄHÄN OMA URLISI"
 mongoose.connect(url)
 
 const Person = mongoose.model('Person', {
